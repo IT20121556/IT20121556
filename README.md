@@ -44,6 +44,7 @@
 <a href="https://www.linkedin.com/in/pramod-arachchige/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pramod%20Arachchige-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/DGMightyElf"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Pramod%20Arachchige-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.facebook.com/pramod.arachchige.98"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Pramod%20Arachchige-blue?style=flat-square&logo=facebook"></a>
+<a href="mailto:arachchigepramod@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arachchigepramod@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [IT20121556](https://github.com/IT20121556)
