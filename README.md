@@ -47,4 +47,36 @@
 <a href="mailto:arachchigepramod@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arachchigepramod@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{IT20121556}/count.svg" alt="IT20121556 :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT20121556&langs_count=10&theme=tokyonight&layout=compact" alt="IT20121556 :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IT20121556&show_icons=true&theme=synthwave" alt="IT20121556 :: Profile Stats" /></p>
+
+<h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pramod-arachchige/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Pramod Arachchige s' LinkedIn Profile" height="30" width="30">
+  </a>
+  <a href="https://gitlab.com/IT20121556">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Pramod Arachchiges' GitLab Profile" height="30" width="30">
+  </a>
+  <a href="https://twitter.com/DGMightyElf">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Pramod Arachchige s' Twitter Profile" height="30" width="30">
+  </a>
+  <a href="https://www.facebook.com/pramod.arachchige.98">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Pramod Arachchige s' Facebook Profile" height="30" width="30">
+  </a>
+  
+</p>
+
 ⭐️ From [IT20121556](https://github.com/IT20121556)
