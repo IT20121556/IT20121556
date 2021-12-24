@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pramod-arachchige/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pramod%20Arachchige-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pramod__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/DGMightyElf"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Pramod%20Arachchige-blue?style=flat-square&logo=twitter"></a>
 </p>
 
 ⭐️ From [IT20121556](https://github.com/IT20121556)
