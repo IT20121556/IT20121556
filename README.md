@@ -49,7 +49,7 @@
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pramod-arachchige/">
+  <a href="https://www.linkedin.com/in/pramod-arachchige">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Pramod Arachchige s' LinkedIn Profile" height="30" width="30">
   </a>
   <a href="https://twitter.com/DGMightyElf">
